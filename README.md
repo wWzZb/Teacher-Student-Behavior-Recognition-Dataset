@@ -20,7 +20,7 @@ The dataset is organized as follows:
 
 ## Dataset Application & Usage Guide
 
-This dataset requires an application before use due to privacy concerns, as it contains classroom footage that may include personally identifiable information. To request access, please send an email to 2828282@qq.com with your name, institution, research area, and intended use. Upon approval, we will provide access to download the dataset.
+This dataset requires an application before use due to privacy concerns, as it contains classroom footage that may include personally identifiable information. To request access, please send an email to 806671633@qq.com with your name, institution, research area, and intended use. Upon approval, we will provide access to download the dataset.
 ### Steps to Use the Dataset
 
 1. **Dataset Application**: Send an application email to **[806671633@qq.com](mailto:806671633@qq.com)**.
